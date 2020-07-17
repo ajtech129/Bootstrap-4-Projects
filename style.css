@@ -1,0 +1,20 @@
+body{
+    background-color: #f4f3f9;
+}
+.blk, footer{
+    background-color: #1d1c21;
+}
+.bdr-tp{
+    border-top: 5px solid #4077ec;
+}
+.bdr-lt{
+    border-left: 5px solid #602d96;
+}
+.bdr-bm{
+    border-bottom: 2px solid #e1e1e1;
+}
+.clr-vio{
+    background-color: #6c63fe;
+    color: #ffffff;
+    border-radius: 3px;
+}
